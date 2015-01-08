@@ -1,6 +1,7 @@
 <?php
 /**
  * Example of how to check if a field is updated
+ * Original from http://developer.sugarcrm.com/2013/08/21/doing-beforeafter-field-comparisons-in-after_save-logic-hooks/
  */
 class FieldChangeHook
 {
